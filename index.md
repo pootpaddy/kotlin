@@ -2,29 +2,21 @@
 
 
 ### IF
-
 > \
-> if (condición) { \
+> if (condicion) { \
 >     // El código de este bloque se ejecuta si se cumple la condición \
-> } \
+> } 
+>
 
+#### Ejemplo
 
 ```markdown
-Syntax highlighted code block
+ println("Introduce tu edad")
+        var edad = readLine()!!.toInt()
+        if (edad > 30)
+            println("Eres un adulto")
+        println("La condición de este ejemplo es que cuando tu edad es mayor a 30, te dice que eres un adulto.")
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
