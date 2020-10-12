@@ -3,12 +3,11 @@
 
 ### IF
 
-<div class="boxed">
-if (condición) {
-    // El código de este bloque se ejecuta si se cumple la condición 
-}
+>
+> if (condición) {
+>     // El código de este bloque se ejecuta si se cumple la condición 
+> }
 
-</div>
 
 ```markdown
 Syntax highlighted code block
