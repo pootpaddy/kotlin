@@ -2,9 +2,11 @@
 
 
 ### IF
-> \
+> 
 > if (condicion) { \
+>
 >     // El código de este bloque se ejecuta si se cumple la condición \
+>
 > } 
 >
 
